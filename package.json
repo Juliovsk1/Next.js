@@ -1,0 +1,19 @@
+{
+  "name": "alura-case-divulgacao",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Juliovsk1/Next.js.git",
+  "author": "Juliovsk1 <jcezarmaricaua@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "next": "^15.0.3",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  }
+}
